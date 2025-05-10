@@ -15,22 +15,19 @@ const Footer = () => {
         </div>
 
         <p className={styles.footerDes}>Feel the Beat, Live the Vibe</p>
-        <p className={styles.footerCre}>Made by yash nayak</p>
+        <p className={styles.footerCre}>Made by Bhuwan Arya</p>
       </div>
       <div className={styles.footerContent}>
         <p className={styles.footerMsg}>Connect with me</p>
         <div className={styles.socailMediaLink}>
-          <a href="mailto:yashsukantnayak@gmail.com" target="_blank">
-            <EmailIcon href="https://github.com/Nayak1703" />
+          <a href="mailto:aryabhuwa873@gmail.com" target="_blank">
+            <EmailIcon href="https://github.com/https://github.com/AryaBhuwan-98" />
           </a>
-          <a href="https://github.com/Nayak1703" target="_blank">
+          <a href="https://https://github.com/AryaBhuwan-98" target="_blank">
             <GitHubIcon />
           </a>
-          <a href="https://www.linkedin.com/in/yash-nayak-hk/" target="_blank">
+          <a href="https://www.linkedin.com/in/bhuwanarya98/" target="_blank">
             <LinkedInIcon />
-          </a>
-          <a href="https://www.instagram.com/nayakyash10/" target="_blank">
-            <InstagramIcon />
           </a>
         </div>
       </div>
