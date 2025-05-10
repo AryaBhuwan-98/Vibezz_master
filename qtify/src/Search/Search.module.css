@@ -1,0 +1,21 @@
+.searchInput {
+  width: 60%;
+}
+.wrapper {
+  width: 100%;
+}
+
+.inputFieldBtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.searchButton {
+  width: 100%;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+.customAutoComplete {
+  padding: 0;
+}
